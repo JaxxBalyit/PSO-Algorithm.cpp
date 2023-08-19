@@ -1,0 +1,5 @@
+N=200
+maxIt=20
+fitnessFunction=beale
+lowerBound=-4.5,-4.5
+upperBound=4.5,4.5
